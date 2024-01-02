@@ -117,7 +117,7 @@
               <b>Server:</b> AlmaLinux 8
             </li>
             <li>
-              <b>Desktop:</b> Fedora Workstation 39
+              <b>Desktop:</b> Fedora 39 KDE Plasma Spin
             </li>
             <li>
               <b>SBC:</b> Debian
